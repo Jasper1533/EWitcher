@@ -1,0 +1,22 @@
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\bin\Debug\netcoreapp2.0\EWitcherstore.deps.json
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\bin\Debug\netcoreapp2.0\EWitcherstore.runtimeconfig.json
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\bin\Debug\netcoreapp2.0\EWitcherstore.runtimeconfig.dev.json
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\bin\Debug\netcoreapp2.0\EWitcherstore.dll
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\bin\Debug\netcoreapp2.0\EWitcherstore.pdb
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\obj\Debug\netcoreapp2.0\EWitcherstore.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\obj\Debug\netcoreapp2.0\EWitcherstore.AssemblyInfoInputs.cache
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\obj\Debug\netcoreapp2.0\EWitcherstore.AssemblyInfo.cs
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\obj\Debug\netcoreapp2.0\EWitcherstore.dll
+C:\Users\Jasper\Documents\Visual Studio\EWitcherstore\EWitcherstore\obj\Debug\netcoreapp2.0\EWitcherstore.pdb
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\bin\Debug\netcoreapp2.0\EWitcherstore.deps.json
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\bin\Debug\netcoreapp2.0\EWitcherstore.runtimeconfig.json
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\bin\Debug\netcoreapp2.0\EWitcherstore.runtimeconfig.dev.json
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\bin\Debug\netcoreapp2.0\EWitcherstore.dll
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\bin\Debug\netcoreapp2.0\EWitcherstore.pdb
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\obj\Debug\netcoreapp2.0\EWitcherstore.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\obj\Debug\netcoreapp2.0\EWitcherstore.AssemblyInfoInputs.cache
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\obj\Debug\netcoreapp2.0\EWitcherstore.AssemblyInfo.cs
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\obj\Debug\netcoreapp2.0\EWitcherstore.dll
+C:\Users\Jasper\Documents\Git\EWitcher\EWitcherstore\obj\Debug\netcoreapp2.0\EWitcherstore.pdb
