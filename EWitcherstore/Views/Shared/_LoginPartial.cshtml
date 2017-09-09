@@ -20,7 +20,53 @@
 else
 {
     <ul class="nav navbar-nav navbar-right">
-        <li><a asp-area="" asp-controller="Account" asp-action="Register">Register</a></li>
-        <li><a asp-area="" asp-controller="Account" asp-action="Login">Log in</a></li>
+        <li class="dropdown account">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                Account<span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                <!--Temporary form -->
+                <form method="post" action="/Account/Login" novalidate="novalidate">
+                    <h4>Use a local account to log in.</h4>
+                    <hr>
+                    <div class="text-danger validation-summary-valid" data-valmsg-summary="true">
+                        <ul>
+                            <li style="display:none"></li>
+                        </ul>
+                    </div>
+                    <div class="form-group">
+                        <label for="Email">Email</label>
+                        <input class="form-control" type="email" data-val="true" data-val-email="The Email field is not a valid e-mail address." data-val-required="The Email field is required." id="Email" name="Email" value="">
+                        <span class="text-danger field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="Password">Password</label>
+                        <input class="form-control" type="password" data-val="true" data-val-required="The Password field is required." id="Password" name="Password">
+                        <span class="text-danger field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="checkbox">
+                            <label for="RememberMe">
+                                <input type="checkbox" data-val="true" data-val-required="The Remember me? field is required." id="RememberMe" name="RememberMe" value="true">
+                                Remember me?
+                            </label>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-default">Log in</button>
+                    </div>
+                    <div class="form-group">
+                        <p>
+                            <a href="/Account/ForgotPassword">Forgot your password?</a>
+                        </p>
+                        <p>
+                            <a href="/Account/Register">Register as a new user?</a>
+                        </p>
+                    </div>
+                    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8CtHjCHCKrlDqcUtHzw7gq6WXh9SpNLxhL2l-oviPg8DI4kqdLFQCcHwZDNyU5EOaUVREma_ft8wVdiHD2auj5BZK-6oeltv0KN5FO0bIyGdV48066_FvAJGspt7-5Zr0Bzy1JyE5PRAQJQAm6jPluQ"><input name="RememberMe" type="hidden" value="false">
+                </form>
+                <!-- End of temporary form -->
+            </ul>
+        </li>
     </ul>
 }

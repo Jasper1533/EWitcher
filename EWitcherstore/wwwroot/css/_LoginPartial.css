@@ -1,0 +1,8 @@
+﻿.navbar .container li.account .dropdown-menu{
+    padding: 10px;
+    width: 250px;
+}
+
+.navbar .container li.account{
+    margin-right: 15px;
+}
